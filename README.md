@@ -41,7 +41,8 @@ https://textik.com
                       |              +---------+                              \|                     
 </pre>
 
-
+## Ascii Art
+<pre>
 /\ /\  /\      
 | V  \/  \---. 
  \_        /   
@@ -51,7 +52,10 @@ https://textik.com
   \     /----' 
    ooooo       
   /     \
+</pre>
 
+## Ascii Art
+<pre>
      __&__      
   /     \     
  |       |    
@@ -62,7 +66,10 @@ https://textik.com
   /_____\     
  /_____/ \    
 /         \
+</pre>
 
+## Ascii Art
+<pre>
   |\/\/\/\/\/|
   |          |
   |          |
@@ -77,3 +84,4 @@ https://textik.com
   |     |
  /`-----'\
 /         \
+</pre>
